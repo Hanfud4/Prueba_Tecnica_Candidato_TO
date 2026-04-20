@@ -1,0 +1,31 @@
+[
+    {
+        "instance_name": "small"
+    },
+    {
+        "assigned_trips": [
+            {
+                "VEH001": [
+                    "V001"
+                ]
+            },
+            {
+                "VEH002": [
+                    "V002",
+                    "V003",
+                    "V004",
+                    "V005"
+                ]
+            }
+        ]
+    },
+    {
+        "unassigned_trips": []
+    },
+    {
+        "summary": {
+            "vehicles_used": 2,
+            "total_deadhead_km": 10.718834939040068
+        }
+    }
+]
