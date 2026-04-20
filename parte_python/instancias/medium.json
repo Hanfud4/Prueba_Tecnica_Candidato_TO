@@ -1,0 +1,286 @@
+{
+  "viajes": [
+    {
+      "id": "V001",
+      "origen": {"lat": -33.4489, "lon": -70.6693},
+      "destino": {"lat": -33.4372, "lon": -70.6506},
+      "hora_presentacion": 28800,
+      "num_pasajeros": 2
+    },
+    {
+      "id": "V002",
+      "origen": {"lat": -33.4258, "lon": -70.6106},
+      "destino": {"lat": -33.4569, "lon": -70.6483},
+      "hora_presentacion": 29100,
+      "num_pasajeros": 3
+    },
+    {
+      "id": "V003",
+      "origen": {"lat": -33.4150, "lon": -70.6050},
+      "destino": {"lat": -33.4489, "lon": -70.6693},
+      "hora_presentacion": 29700,
+      "num_pasajeros": 4
+    },
+    {
+      "id": "V004",
+      "origen": {"lat": -33.4320, "lon": -70.6180},
+      "destino": {"lat": -33.4450, "lon": -70.6600},
+      "hora_presentacion": 30300,
+      "num_pasajeros": 1
+    },
+    {
+      "id": "V005",
+      "origen": {"lat": -33.4500, "lon": -70.6700},
+      "destino": {"lat": -33.4280, "lon": -70.6150},
+      "hora_presentacion": 30900,
+      "num_pasajeros": 5
+    },
+    {
+      "id": "V006",
+      "origen": {"lat": -33.4400, "lon": -70.6540},
+      "destino": {"lat": -33.4200, "lon": -70.6100},
+      "hora_presentacion": 31500,
+      "num_pasajeros": 2
+    },
+    {
+      "id": "V007",
+      "origen": {"lat": -33.4100, "lon": -70.6000},
+      "destino": {"lat": -33.4550, "lon": -70.6750},
+      "hora_presentacion": 32100,
+      "num_pasajeros": 3
+    },
+    {
+      "id": "V008",
+      "origen": {"lat": -33.4380, "lon": -70.6520},
+      "destino": {"lat": -33.4180, "lon": -70.6080},
+      "hora_presentacion": 32700,
+      "num_pasajeros": 4
+    },
+    {
+      "id": "V009",
+      "origen": {"lat": -33.4470, "lon": -70.6650},
+      "destino": {"lat": -33.4300, "lon": -70.6200},
+      "hora_presentacion": 33300,
+      "num_pasajeros": 2
+    },
+    {
+      "id": "V010",
+      "origen": {"lat": -33.4220, "lon": -70.6130},
+      "destino": {"lat": -33.4510, "lon": -70.6680},
+      "hora_presentacion": 33900,
+      "num_pasajeros": 3
+    },
+    {
+      "id": "V011",
+      "origen": {"lat": -33.4350, "lon": -70.6250},
+      "destino": {"lat": -33.4420, "lon": -70.6580},
+      "hora_presentacion": 34500,
+      "num_pasajeros": 1
+    },
+    {
+      "id": "V012",
+      "origen": {"lat": -33.4530, "lon": -70.6720},
+      "destino": {"lat": -33.4170, "lon": -70.6070},
+      "hora_presentacion": 35100,
+      "num_pasajeros": 5
+    },
+    {
+      "id": "V013",
+      "origen": {"lat": -33.4290, "lon": -70.6170},
+      "destino": {"lat": -33.4460, "lon": -70.6620},
+      "hora_presentacion": 35700,
+      "num_pasajeros": 2
+    },
+    {
+      "id": "V014",
+      "origen": {"lat": -33.4410, "lon": -70.6560},
+      "destino": {"lat": -33.4240, "lon": -70.6120},
+      "hora_presentacion": 36300,
+      "num_pasajeros": 4
+    },
+    {
+      "id": "V015",
+      "origen": {"lat": -33.4120, "lon": -70.6020},
+      "destino": {"lat": -33.4480, "lon": -70.6670},
+      "hora_presentacion": 36900,
+      "num_pasajeros": 3
+    },
+    {
+      "id": "V016",
+      "origen": {"lat": -33.4360, "lon": -70.6300},
+      "destino": {"lat": -33.4190, "lon": -70.6090},
+      "hora_presentacion": 37500,
+      "num_pasajeros": 2
+    },
+    {
+      "id": "V017",
+      "origen": {"lat": -33.4440, "lon": -70.6610},
+      "destino": {"lat": -33.4270, "lon": -70.6160},
+      "hora_presentacion": 38100,
+      "num_pasajeros": 1
+    },
+    {
+      "id": "V018",
+      "origen": {"lat": -33.4520, "lon": -70.6710},
+      "destino": {"lat": -33.4160, "lon": -70.6060},
+      "hora_presentacion": 38700,
+      "num_pasajeros": 4
+    },
+    {
+      "id": "V019",
+      "origen": {"lat": -33.4250, "lon": -70.6140},
+      "destino": {"lat": -33.4490, "lon": -70.6690},
+      "hora_presentacion": 39300,
+      "num_pasajeros": 3
+    },
+    {
+      "id": "V020",
+      "origen": {"lat": -33.4390, "lon": -70.6530},
+      "destino": {"lat": -33.4210, "lon": -70.6110},
+      "hora_presentacion": 39900,
+      "num_pasajeros": 5
+    },
+    {
+      "id": "V021",
+      "origen": {"lat": -33.4130, "lon": -70.6030},
+      "destino": {"lat": -33.4470, "lon": -70.6640},
+      "hora_presentacion": 40500,
+      "num_pasajeros": 2
+    },
+    {
+      "id": "V022",
+      "origen": {"lat": -33.4340, "lon": -70.6280},
+      "destino": {"lat": -33.4430, "lon": -70.6590},
+      "hora_presentacion": 41100,
+      "num_pasajeros": 3
+    },
+    {
+      "id": "V023",
+      "origen": {"lat": -33.4500, "lon": -70.6700},
+      "destino": {"lat": -33.4230, "lon": -70.6130},
+      "hora_presentacion": 41700,
+      "num_pasajeros": 4
+    },
+    {
+      "id": "V024",
+      "origen": {"lat": -33.4260, "lon": -70.6150},
+      "destino": {"lat": -33.4540, "lon": -70.6730},
+      "hora_presentacion": 42300,
+      "num_pasajeros": 1
+    },
+    {
+      "id": "V025",
+      "origen": {"lat": -33.4370, "lon": -70.6510},
+      "destino": {"lat": -33.4180, "lon": -70.6080},
+      "hora_presentacion": 42900,
+      "num_pasajeros": 2
+    },
+    {
+      "id": "V026",
+      "origen": {"lat": -33.4450, "lon": -70.6630},
+      "destino": {"lat": -33.4290, "lon": -70.6190},
+      "hora_presentacion": 43500,
+      "num_pasajeros": 3
+    },
+    {
+      "id": "V027",
+      "origen": {"lat": -33.4110, "lon": -70.6010},
+      "destino": {"lat": -33.4520, "lon": -70.6710},
+      "hora_presentacion": 44100,
+      "num_pasajeros": 4
+    },
+    {
+      "id": "V028",
+      "origen": {"lat": -33.4330, "lon": -70.6270},
+      "destino": {"lat": -33.4200, "lon": -70.6100},
+      "hora_presentacion": 44700,
+      "num_pasajeros": 5
+    },
+    {
+      "id": "V029",
+      "origen": {"lat": -33.4480, "lon": -70.6660},
+      "destino": {"lat": -33.4250, "lon": -70.6140},
+      "hora_presentacion": 45300,
+      "num_pasajeros": 2
+    },
+    {
+      "id": "V030",
+      "origen": {"lat": -33.4140, "lon": -70.6040},
+      "destino": {"lat": -33.4410, "lon": -70.6560},
+      "hora_presentacion": 45900,
+      "num_pasajeros": 3
+    }
+  ],
+  "vehiculos": [
+    {
+      "id": "VEH001",
+      "capacidad": 6,
+      "inicio_jornada": {
+        "hora": 28800,
+        "lat": -33.4489,
+        "lon": -70.6693
+      },
+      "fin_jornada": {
+        "hora": 54000,
+        "lat": -33.4489,
+        "lon": -70.6693
+      }
+    },
+    {
+      "id": "VEH002",
+      "capacidad": 6,
+      "inicio_jornada": {
+        "hora": 28800,
+        "lat": -33.4372,
+        "lon": -70.6506
+      },
+      "fin_jornada": {
+        "hora": 54000,
+        "lat": -33.4372,
+        "lon": -70.6506
+      }
+    },
+    {
+      "id": "VEH003",
+      "capacidad": 5,
+      "inicio_jornada": {
+        "hora": 28800,
+        "lat": -33.4258,
+        "lon": -70.6106
+      },
+      "fin_jornada": {
+        "hora": 54000,
+        "lat": -33.4258,
+        "lon": -70.6106
+      }
+    },
+    {
+      "id": "VEH004",
+      "capacidad": 6,
+      "inicio_jornada": {
+        "hora": 28800,
+        "lat": -33.4150,
+        "lon": -70.6050
+      },
+      "fin_jornada": {
+        "hora": 54000,
+        "lat": -33.4150,
+        "lon": -70.6050
+      }
+    },
+    {
+      "id": "VEH005",
+      "capacidad": 5,
+      "inicio_jornada": {
+        "hora": 28800,
+        "lat": -33.4320,
+        "lon": -70.6180
+      },
+      "fin_jornada": {
+        "hora": 54000,
+        "lat": -33.4320,
+        "lon": -70.6180
+      }
+    }
+  ]
+}

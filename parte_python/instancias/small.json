@@ -1,0 +1,99 @@
+{
+  "viajes": [
+    {
+      "id": "V001",
+      "origen": {
+        "lat": -33.4489,
+        "lon": -70.6693
+      },
+      "destino": {
+        "lat": -33.4372,
+        "lon": -70.6506
+      },
+      "hora_presentacion": 28800,
+      "num_pasajeros": 2
+    },
+    {
+      "id": "V002",
+      "origen": {
+        "lat": -33.4258,
+        "lon": -70.6106
+      },
+      "destino": {
+        "lat": -33.4489,
+        "lon": -70.6693
+      },
+      "hora_presentacion": 29400,
+      "num_pasajeros": 3
+    },
+    {
+      "id": "V003",
+      "origen": {
+        "lat": -33.4372,
+        "lon": -70.6506
+      },
+      "destino": {
+        "lat": -33.4258,
+        "lon": -70.6106
+      },
+      "hora_presentacion": 31200,
+      "num_pasajeros": 1
+    },
+    {
+      "id": "V004",
+      "origen": {
+        "lat": -33.4450,
+        "lon": -70.6600
+      },
+      "destino": {
+        "lat": -33.4280,
+        "lon": -70.6150
+      },
+      "hora_presentacion": 32400,
+      "num_pasajeros": 2
+    },
+    {
+      "id": "V005",
+      "origen": {
+        "lat": -33.4150,
+        "lon": -70.6050
+      },
+      "destino": {
+        "lat": -33.4500,
+        "lon": -70.6700
+      },
+      "hora_presentacion": 34200,
+      "num_pasajeros": 4
+    }
+  ],
+  "vehiculos": [
+    {
+      "id": "VEH001",
+      "capacidad": 4,
+      "inicio_jornada": {
+        "hora": 28800,
+        "lat": -33.4489,
+        "lon": -70.6693
+      },
+      "fin_jornada": {
+        "hora": 43200,
+        "lat": -33.4489,
+        "lon": -70.6693
+      }
+    },
+    {
+      "id": "VEH002",
+      "capacidad": 5,
+      "inicio_jornada": {
+        "hora": 28800,
+        "lat": -33.4258,
+        "lon": -70.6106
+      },
+      "fin_jornada": {
+        "hora": 43200,
+        "lat": -33.4258,
+        "lon": -70.6106
+      }
+    }
+  ]
+}

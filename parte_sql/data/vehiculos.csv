@@ -1,0 +1,9 @@
+vehiculo_id,capacidad,base_id,hora_inicio_jornada,hora_fin_jornada
+VEH001,4,Norte,07:00:00,21:00:00
+VEH002,8,Norte,07:00:00,21:00:00
+VEH003,6,Norte,07:00:00,21:00:00
+VEH004,4,Sur,07:00:00,21:00:00
+VEH005,4,Sur,07:00:00,21:00:00
+VEH006,10,Norte,07:00:00,21:00:00
+VEH007,4,Norte,07:00:00,21:00:00
+VEH008,6,Norte,07:00:00,21:00:00
